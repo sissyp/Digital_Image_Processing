@@ -1,0 +1,47 @@
+﻿  filter.cpp
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\array2d.hpp(51,3): error C2953: 'math::Array2D': class template has already been defined
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\array2d.hpp(5): message : see declaration of 'math::Array2D'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\array2d.hpp(51,3): error C2953: 'math::Array2D': class template has already been defined
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\array2d.hpp(5): message : see declaration of 'math::Array2D'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\array2d.hpp(51,3): error C2953: 'math::Array2D': class template has already been defined
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\array2d.hpp(5): message : see declaration of 'math::Array2D'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(12,55): error C2955: 'math::Array2D': use of class template requires template argument list
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\array2d.hpp(5): message : see declaration of 'math::Array2D'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(16,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(17,1): error C2440: 'type cast': cannot convert from 'unknown' to 'int'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(17,12): message : There is no context in which this conversion is possible
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(18,1): error C2440: 'type cast': cannot convert from 'unknown' to 'int'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(18,12): message : There is no context in which this conversion is possible
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(26,1): error C2597: illegal reference to non-static member 'math::Array2D<T>::buffer'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(26): message : see declaration of 'math::Array2D<T>::buffer'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(26,1): error C3867: 'math::Array2D<T>::buffer': non-standard syntax; use '&' to create a pointer to member
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(26,1): error C2109: subscript requires array or pointer type
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(27,1): error C2597: illegal reference to non-static member 'math::Array2D<T>::buffer'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(27): message : see declaration of 'math::Array2D<T>::buffer'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(27,1): error C3867: 'math::Array2D<T>::buffer': non-standard syntax; use '&' to create a pointer to member
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(27,1): error C2109: subscript requires array or pointer type
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(28,1): error C2597: illegal reference to non-static member 'math::Array2D<T>::buffer'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(28): message : see declaration of 'math::Array2D<T>::buffer'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(28,1): error C3867: 'math::Array2D<T>::buffer': non-standard syntax; use '&' to create a pointer to member
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(28,1): error C2109: subscript requires array or pointer type
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(43,36): error C2065: 'buffer': undeclared identifier
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(44,31): error C2065: 'buffer': undeclared identifier
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(45,1): error C2597: illegal reference to non-static member 'math::Array2D<T>::buffer'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(45): message : see declaration of 'math::Array2D<T>::buffer'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(45,1): error C3867: 'math::Array2D<T>::buffer': non-standard syntax; use '&' to create a pointer to member
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(45,1): error C2109: subscript requires array or pointer type
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(46,1): error C2597: illegal reference to non-static member 'math::Array2D<T>::buffer'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(46): message : see declaration of 'math::Array2D<T>::buffer'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(46,1): error C3867: 'math::Array2D<T>::buffer': non-standard syntax; use '&' to create a pointer to member
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(46,1): error C2109: subscript requires array or pointer type
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(47,1): error C2597: illegal reference to non-static member 'math::Array2D<T>::buffer'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(47): message : see declaration of 'math::Array2D<T>::buffer'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(47,1): error C3867: 'math::Array2D<T>::buffer': non-standard syntax; use '&' to create a pointer to member
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(47,1): error C2109: subscript requires array or pointer type
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(50,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(51,1): error C2597: illegal reference to non-static member 'math::Array2D<T>::width'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(51): message : see declaration of 'math::Array2D<T>::width'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(51,1): error C2597: illegal reference to non-static member 'math::Array2D<T>::height'
+C:\Users\Σίσσυ Παπαθανασίου\Desktop\cpp\ppm\Project1\Image.h(51): message : see declaration of 'math::Array2D<T>::height'
